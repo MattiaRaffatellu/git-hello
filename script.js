@@ -3,7 +3,8 @@ const consigli = [
   "Scrivi messaggi di commit che capiresti anche tra sei mesi.",
   "Prima di chiedere aiuto, lancia git status.",
   "Non salvare mai password e chiavi nel repository.",
-  "Il caffè non risolve i bug, ma aiuta a cercarli."
+  "Il caffè non risolve i bug, ma aiuta a cercarli.",
+  "Usa l'ai e non scrivere mai più codice."
 ];
 
 const bottone = document.getElementById("quote-btn");

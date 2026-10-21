@@ -65,7 +65,35 @@ button {
 }
 
 .footer {
-  text-align: center;
+  text-align: left;
   padding: 16px;
-  color: #8a7560;
+ 
+  color: #d6152f;
+}
+
+.chisiamo p {
+  text-align: center;
+
+}
+
+.chisiamo h1 {
+  text-align: center;
+} 
+
+.chisiamo h2 {
+  text-align: center;
+}
+
+.chisiamo2 iframe {
+  width: 100%;
+  height: 250px;
+  max-width: 300px;
+  margin: auto;
+  display: block;
+
+}.chisiamo2 p {
+  text-align: center;
+}
+.chisiamo2 h2 {
+  text-align: center;
 }
